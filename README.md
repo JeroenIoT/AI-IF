@@ -203,34 +203,3 @@ Read our [FAQ document](https://ezi.notion.site/Superpower-ChatGPT-FAQ-9d43a8a1c
 
 Join our [Discord channel](https://discord.gg/superpower-chatgpt-1083455984489476220) to stay up to date, submit feature requests, report bugs, and get faster support
 
-## Privacy
-
-The only data from the users that are saved on the server are the public prompt shared by the community. The user name and email are also saved. By using this extension, you agree to join our daily AI newsletter. You can opt out of the newsletter at any time. You can see the newsletter here (https://www.superpowerdaily.com/) before you agree to this. Everything else, including your prompt history, your conversation history, etc., is saved locally on your computer, and you have full control over it. The Auto Sync feature basically download a copy of all your conversation on your own computer to allow more features, such as searching conversations. This extension does not save any of your conversations on our database, and I have no visibility into your conversations history.
-
-## How can I support the development of Superpower ChatGPT?
-
-I appreciate your interest in supporting this extension. Here are some ways you can support the development of Superpower ChatGPT.
-
-[![Donate with PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/donate/?business=TAF9NBUWQQQ7J&no_recurring=0&item_name=Thank+you+for+supporting+Superpower+ChatGPT+%F0%9F%99%87%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F&currency_code=USD)
-[![Donate with Stripe](https://img.shields.io/badge/stripe-donate-blue.svg)](https://buy.stripe.com/6oE6s0dQS7y2bjG9AA)
-
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=saeedezzati/superpower-chatgpt)](https://visitor-badge.glitch.me)
-[![Discord](https://img.shields.io/discord/1060110102188797992?color=green&label=Discord&logo=discord)](https://discord.gg/superpower-chatgpt-1083455984489476220)
-[![Twitter Follow](https://img.shields.io/twitter/follow/eeeziii?label=follow%20me&style=social)](https://twitter.com/intent/user?screen_name=eeeziii)
-
-## Copyright
-
-Superpower ChatGPT
-
-Copyright (C) 2023 Fancy Dino
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), for their own personal use or to contribute to the project, subject to the following conditions:
-
-1. The user is not permitted to redistribute the Software or any part of the Software, or the source code.
-2. The user is not permitted to use the source of the Software, or any part thereof, for any other projects or purposes, including competing with the project in any way.
-3. The user is not permitted to use the Software for any commercial purposes.
-4. The copyright holder reserves the right to change this license at any time without notice.
-
-Any contributions to the project, whether used or not, are subject to the same terms and conditions as outlined in this license, if the contribution is accepted, you agree to waive all rights to the contribution. You agree that if you contribute something, that does not follow these terms, you are fully liable for any damages.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
